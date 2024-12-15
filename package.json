@@ -1,0 +1,22 @@
+{
+  "name": "dash-server",
+  "version": "1.0.0",
+  "description": "Server UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjanders6/Dash-Server.git"
+  },
+  "author": "mjanders6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjanders6/Dash-Server/issues"
+  },
+  "homepage": "https://github.com/mjanders6/Dash-Server#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
